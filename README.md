@@ -3,13 +3,13 @@
 Welcome to the documentation for the Automated AppStoreConnect Tester Management Slack bot! This bot aims to simplify the process of adding test users to AppStoreConnect apps by automating the entire workflow through Slack interactions. With the help of this bot, any user within your organization can easily add testers to any app and any environment without manual intervention.
 
 ## Table of Contents
-1. Introduction
-2. Getting Started
-3. Slack Commands
-4. Integration with AppStoreConnect API
-5. Security Considerations
-6. Troubleshooting
-7. Conclusion
+1. [Introduction](#1-introduction)
+2. [Getting Started](#2-getting-started)
+3. [Slack Commands](#3-slack-commands)
+4. [Integration with AppStoreConnect API](#integration-with-appstoreconnect-api)
+5. [Security Considerations](#5-security-considerations)
+6. [Troubleshooting](#6-troubleshooting)
+7. [Conclusion](#7-conclusion)
 
 ## 1. Introduction
 The Automated AppStoreConnect Tester Management bot is designed to streamline the process of adding testers to your AppStoreConnect apps. Instead of relying on manual requests and responses, the bot leverages Slack interactions to prompt users for necessary information and then uses the AppStoreConnect API to perform the actual user addition. This documentation will guide you through the setup and usage of the bot, making it easy for developers to understand its functionalities.
